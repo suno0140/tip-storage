@@ -6,16 +6,6 @@ labels: ""
 assignees: suno0140
 ---
 
----
-
-name: "Issue: \U0001F41EBUG"
-about: 이슈 발생 시 작성해주세요.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Description
 
 버그 내용을 작성하세요.
