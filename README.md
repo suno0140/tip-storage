@@ -1,3 +1,3 @@
 # tip-storage
 
-개발 중 발생한 이슈에 대한 트러블 슈팅 경험을 정리한 레포입니다.
+📚 This repository is a collection of development tips and troubleshooting I have experienced during development.
